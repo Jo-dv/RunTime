@@ -212,7 +212,7 @@
 
 ## 🏗️ 아키텍처
 
-![Architecture](assets/png/아키텍처.jpg)
+![Architecture](assets/png/아키텍처.png)
 
 
 
